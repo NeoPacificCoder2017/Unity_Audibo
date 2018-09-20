@@ -5,13 +5,28 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+<<<<<<< HEAD
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+=======
+>>>>>>> d9a553aea3b9c3d47c67c941049671c0f3fd0353
   - enabled: 1
     path: Assets/Scenes/Main.unity
     guid: cfc7cc69441c0a8499164854949cbe26
   - enabled: 1
+<<<<<<< HEAD
+    path: Assets/Scenes/Cat1_Alphabet/A.unity
+    guid: 89373443ba2f7234e8d8a16172181578
+  - enabled: 1
+    path: Assets/Scenes/Cat1_Alphabet/B.unity
+    guid: efb8519c50828fd4ca97b4be543da4ba
+  - enabled: 1
+=======
     path: Assets/Scenes/Cat1_Alphabet/Alphabet.unity
     guid: ea2abada6bdd630458cde7b10a31a301
   - enabled: 1
+>>>>>>> d9a553aea3b9c3d47c67c941049671c0f3fd0353
     path: Assets/Scenes/Cat3_Vocabulaire/Words.unity
     guid: 23e38a5a9a61be0498b834ce032fd9e8
   - enabled: 1

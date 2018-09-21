@@ -16,7 +16,76 @@ EditorBuildSettings:
     guid: efb8519c50828fd4ca97b4be543da4ba
   - enabled: 1
     path: Assets/Scenes/Cat1_Alphabet/C.unity
+    guid: cef85e4614c321f45a83c2dd218a6758
+  - enabled: 1
+    path: Assets/Scenes/Cat1_Alphabet/D.unity
     guid: 79ed8bc59d3276d459e84d1035919e94
+  - enabled: 1
+    path: Assets/Scenes/Cat1_Alphabet/E.unity
+    guid: 19b19b8e18b0f0e4c9c3dc92d759ae92
+  - enabled: 1
+    path: Assets/Scenes/Cat1_Alphabet/F.unity
+    guid: e6d487b52ddae6d4e9ac61e927e6c847
+  - enabled: 1
+    path: Assets/Scenes/Cat1_Alphabet/G.unity
+    guid: 732fbafcbc630024798057cdd93d047e
+  - enabled: 1
+    path: Assets/Scenes/Cat1_Alphabet/H.unity
+    guid: 33ea90c1d251d0a4f83201b6a289e1d0
+  - enabled: 1
+    path: Assets/Scenes/Cat1_Alphabet/I.unity
+    guid: e00ee9b79bc4fc9478b13b4a7607791e
+  - enabled: 1
+    path: Assets/Scenes/Cat1_Alphabet/J.unity
+    guid: 9f0bd8001aca7974f9c12bbbea975829
+  - enabled: 1
+    path: Assets/Scenes/Cat1_Alphabet/K.unity
+    guid: cf568ef014bbe9744a95525cc3893c44
+  - enabled: 1
+    path: Assets/Scenes/Cat1_Alphabet/L.unity
+    guid: 6eddd2a9837a7764f8994260a90a505b
+  - enabled: 1
+    path: Assets/Scenes/Cat1_Alphabet/M.unity
+    guid: 0e5615891e75ffd4ebcd04ba6921bd20
+  - enabled: 1
+    path: Assets/Scenes/Cat1_Alphabet/N.unity
+    guid: db5dcb69ed8df744fa56fca66c39137c
+  - enabled: 1
+    path: Assets/Scenes/Cat1_Alphabet/O.unity
+    guid: 70709f784cc04f844a7eb9c9e76bc8df
+  - enabled: 1
+    path: Assets/Scenes/Cat1_Alphabet/P.unity
+    guid: 9d06d97560a69a84ab57f5d37f0eb73e
+  - enabled: 1
+    path: Assets/Scenes/Cat1_Alphabet/Q.unity
+    guid: e2673a690eb3a384abb5647f3623378e
+  - enabled: 1
+    path: Assets/Scenes/Cat1_Alphabet/R.unity
+    guid: f46c7c359a485404098f445d8cf56813
+  - enabled: 1
+    path: Assets/Scenes/Cat1_Alphabet/S.unity
+    guid: b3af90fc3fbf82d42be16493c0fa8701
+  - enabled: 1
+    path: Assets/Scenes/Cat1_Alphabet/T.unity
+    guid: 32a8c9d72c15a2f49b97d0d3f43f0c22
+  - enabled: 1
+    path: Assets/Scenes/Cat1_Alphabet/U.unity
+    guid: e613d9f3e8bd51148bfad3d4535da05c
+  - enabled: 1
+    path: Assets/Scenes/Cat1_Alphabet/V.unity
+    guid: 23a3cc79d14401c448454fd4d027f936
+  - enabled: 1
+    path: Assets/Scenes/Cat1_Alphabet/W.unity
+    guid: 17dce4bef1de33c40b5727ad197d1d9d
+  - enabled: 1
+    path: Assets/Scenes/Cat1_Alphabet/X.unity
+    guid: 97241395d95b33943a33601e7716af18
+  - enabled: 1
+    path: Assets/Scenes/Cat1_Alphabet/Y.unity
+    guid: 0938c5ed91d38ce41903b986d5749f7f
+  - enabled: 1
+    path: Assets/Scenes/Cat1_Alphabet/Z.unity
+    guid: 85feeda5d860c1943a40b3bfd0927f70
   - enabled: 1
     path: Assets/Scenes/Cat3_Vocabulaire/Words.unity
     guid: 23e38a5a9a61be0498b834ce032fd9e8

@@ -35,6 +35,10 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
+# ---------------------- Ajout christopher 2018-09-21 
 # Unity Plugins GitHub
 Assets/Plugins/GitHub/
 Assets/Plugins/GitHub.meta
+
+# Project Settings
+ProjectSettings/EditorBuildSettings.asset

@@ -93,6 +93,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Cat3_Vocabulaire/Svp.unity
     guid: f93f6b63784bede42aa8e508c0a8e345
   - enabled: 1
+    path: Assets/Scenes/Cat3_Vocabulaire/Merci.unity
+    guid: b8863e73331772b4f9648db1376b2e94
+  - enabled: 1
     path: Assets/Scenes/Cat4_Jeux/Cards.unity
     guid: b4d43edd81580034d8bee83dc078ecca
   m_configObjects: {}

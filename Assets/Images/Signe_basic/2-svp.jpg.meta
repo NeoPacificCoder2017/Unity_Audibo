@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: f1bf7cd51c474284189002b40eafa801
+=======
+guid: bc32920a2c40c6a4489db066f4bb1abb
+>>>>>>> gaby
 TextureImporter:
   fileIDToRecycleName: {}
   externalObjects: {}

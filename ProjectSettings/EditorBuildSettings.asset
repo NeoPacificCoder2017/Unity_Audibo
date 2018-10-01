@@ -88,8 +88,66 @@ EditorBuildSettings:
     guid: 85feeda5d860c1943a40b3bfd0927f70
   - enabled: 1
     path: Assets/Scenes/Cat3_Vocabulaire/Sadness.unity
-    guid: 23e38a5a9a61be0498b834ce032fd9e8
+    guid: b5179d312afbbcd4a8e784be848f5012
   - enabled: 1
     path: Assets/Scenes/Cat3_Vocabulaire/Svp.unity
     guid: f93f6b63784bede42aa8e508c0a8e345
+  - enabled: 1
+    path: Assets/Scenes/Cat3_Vocabulaire/Merci.unity
+    guid: b8863e73331772b4f9648db1376b2e94
+  - enabled: 1
+    path: Assets/Scenes/Cat3_Vocabulaire/Aide.unity
+    guid: afa3f662134f1d344ba083018bc782e4
+  - enabled: 1
+    path: Assets/Scenes/Cat3_Vocabulaire/Amour.unity
+    guid: 3dd2459c5856e0343972133993627618
+  - enabled: 1
+    path: Assets/Scenes/Cat3_Vocabulaire/Pardon.unity
+    guid: 85edbfaa723c3224b869063086c5fb1b
+  - enabled: 1
+    path: "Assets/Scenes/Cat3_Vocabulaire/P\xE8re.unity"
+    guid: 90ad018ddfbd0484abda7d26374d5829
+  - enabled: 1
+    path: "Assets/Scenes/Cat3_Vocabulaire/M\xE8re.unity"
+    guid: 3568c54a43c25dd42a88a06bf884418c
+  - enabled: 1
+    path: Assets/Scenes/Cat3_Vocabulaire/Coiffeur.unity
+    guid: bcd23fbab713da64a802ed38859a11df
+  - enabled: 1
+    path: Assets/Scenes/Cat3_Vocabulaire/Faire.unity
+    guid: 5d745aa525d807d4d9cc5efb1a3d6e66
+  - enabled: 1
+    path: Assets/Scenes/Cat3_Vocabulaire/Bonjour.unity
+    guid: d196639fcc76746468a8c0caeda107f2
+  - enabled: 1
+    path: Assets/Scenes/Cat3_Vocabulaire/Ca va.unity
+    guid: 57166126d9a4e3f46b175de2cdcc6c89
+  - enabled: 1
+    path: Assets/Scenes/Cat3_Vocabulaire/Non.unity
+    guid: b9dda436cfecc4a438baf8126c3fbb73
+  - enabled: 1
+    path: Assets/Scenes/Cat3_Vocabulaire/Oui.unity
+    guid: 04e51e2163d72dc4fb177744706d7c46
+  - enabled: 1
+    path: Assets/Scenes/Cat3_Vocabulaire/Toilettes.unity
+    guid: 9d2a1c96b34e87c40be267e5b9d6938c
+  - enabled: 1
+    path: Assets/Scenes/Cat3_Vocabulaire/Que faire.unity
+    guid: 33a4bbbb662db67449b66337ee2fc6db
+  - enabled: 1
+    path: Assets/Scenes/Cat3_Vocabulaire/Prendre.unity
+    guid: 938a1e63dac786840add87af60d19dc0
+  - enabled: 1
+    path: Assets/Scenes/Cat3_Vocabulaire/Tu.unity
+    guid: 487a810b0fdc5454190b2c00e2175ce8
+  - enabled: 1
+    path: Assets/Scenes/Cat3_Vocabulaire/Maison.unity
+    guid: 01da798ff87f9e7448ec2f422dc7b667
+  - enabled: 1
+    path: Assets/Scenes/Cat3_Vocabulaire/Six.unity
+    guid: a3adac32fddcc4c46b18005add861995
+  - enabled: 1
+    path: Assets/Scenes/Cat4_Jeux/Cards.unity
+    guid: b4d43edd81580034d8bee83dc078ecca
+
   m_configObjects: {}

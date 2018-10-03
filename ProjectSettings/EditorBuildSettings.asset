@@ -86,9 +86,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Cat1_Alphabet/Z.unity
     guid: 85feeda5d860c1943a40b3bfd0927f70
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Cat3_Vocabulaire/Sadness.unity
     guid: b5179d312afbbcd4a8e784be848f5012
+  - enabled: 1
+    path: Assets/Scenes/Cat3_Vocabulaire/Tristesse.unity
+    guid: e567e75b43b8589438aab326ac999bb5
   - enabled: 1
     path: Assets/Scenes/Cat3_Vocabulaire/Svp.unity
     guid: f93f6b63784bede42aa8e508c0a8e345
@@ -110,20 +113,20 @@ EditorBuildSettings:
   - enabled: 1
     path: "Assets/Scenes/Cat3_Vocabulaire/M\xE8re.unity"
     guid: 3568c54a43c25dd42a88a06bf884418c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Cat3_Vocabulaire/Coiffeur.unity
     guid: bcd23fbab713da64a802ed38859a11df
   - enabled: 1
     path: Assets/Scenes/Cat3_Vocabulaire/Faire.unity
     guid: 5d745aa525d807d4d9cc5efb1a3d6e66
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Cat3_Vocabulaire/Bonjour.unity
     guid: d196639fcc76746468a8c0caeda107f2
   - enabled: 1
     path: Assets/Scenes/Cat3_Vocabulaire/Ca va.unity
     guid: 57166126d9a4e3f46b175de2cdcc6c89
   - enabled: 1
-    path: Assets/Scenes/Cat3_Vocabulaire/Non.unity
+    path: Assets/Scenes/Cat3_Vocabulaire/non.unity
     guid: b9dda436cfecc4a438baf8126c3fbb73
   - enabled: 1
     path: Assets/Scenes/Cat3_Vocabulaire/Oui.unity
@@ -141,6 +144,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Cat3_Vocabulaire/Tu.unity
     guid: 487a810b0fdc5454190b2c00e2175ce8
   - enabled: 1
+    path: Assets/Scenes/Cat3_Vocabulaire/Telephone.unity
+    guid: aef8e4f71c56e6648bad09801de15279
+  - enabled: 0
     path: Assets/Scenes/Cat3_Vocabulaire/Maison.unity
     guid: 01da798ff87f9e7448ec2f422dc7b667
   - enabled: 1
@@ -149,5 +155,4 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Cat4_Jeux/Cards.unity
     guid: b4d43edd81580034d8bee83dc078ecca
-
   m_configObjects: {}

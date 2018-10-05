@@ -87,9 +87,78 @@ EditorBuildSettings:
     path: Assets/Scenes/Cat1_Alphabet/Z.unity
     guid: 85feeda5d860c1943a40b3bfd0927f70
   - enabled: 1
-    path: Assets/Scenes/Cat3_Vocabulaire/Sadness.unity
-    guid: 23e38a5a9a61be0498b834ce032fd9e8
+    path: Assets/Scenes/Cat3_Vocabulaire/Tristess.unity
+    guid: 0ee9d0d7941a82143a017f292023d28f
   - enabled: 1
     path: Assets/Scenes/Cat3_Vocabulaire/Svp.unity
+    guid: 58c5056e14ffe744a98d79d9726653bf
+  - enabled: 1
+    path: Assets/Scenes/Cat3_Vocabulaire/Merci.unity
+    guid: f5b0daf6a1ddc6f4985210adab398b9c
+  - enabled: 1
+    path: Assets/Scenes/Cat3_Vocabulaire/Aide.unity
+    guid: 0c1b5072775ab9a4aa5f086ce3897bdc
+  - enabled: 1
+    path: Assets/Scenes/Cat3_Vocabulaire/Amour.unity
+    guid: eec1a5c500d819b418f90eda07e4843e
+  - enabled: 1
+    path: Assets/Scenes/Cat3_Vocabulaire/Pardon.unity
+    guid: 24a64722b734b2142a179b79f89d63cc
+  - enabled: 1
+    path: Assets/Scenes/Cat3_Vocabulaire/Pere.unity
+    guid: 46e332fb2f9a00d42b7e4e752fa71acf
+  - enabled: 1
+    path: Assets/Scenes/Cat3_Vocabulaire/Mere.unity
+    guid: ab9c096f762845a408d1556168fa868a
+  - enabled: 1
+    path: Assets/Scenes/Cat3_Vocabulaire/Coiffeur.unity
+    guid: 08774d0671b28f74984d03b8188c6c73
+  - enabled: 1
+    path: Assets/Scenes/Cat3_Vocabulaire/Faire.unity
+    guid: c73835c8588114140b01bc4ee0e1164b
+  - enabled: 1
+    path: Assets/Scenes/Cat3_Vocabulaire/Bonjour.unity
+    guid: 240c85912dd53dd4e8103cdea82a391d
+  - enabled: 1
+    path: Assets/Scenes/Cat3_Vocabulaire/Cava.unity
+    guid: c937134f827cbba4d9f6f91402c4de65
+  - enabled: 1
+    path: Assets/Scenes/Cat3_Vocabulaire/Non.unity
+    guid: cf26a72a12313c041acad06ed50afc00
+  - enabled: 1
+    path: Assets/Scenes/Cat3_Vocabulaire/Oui.unity
+    guid: d21a8eab987db014fb9ebfc47764cbbb
+  - enabled: 1
+    path: Assets/Scenes/Cat3_Vocabulaire/Toilettes.unity
+    guid: 2eb6d433c2ee7fb4aa8343263a65d6eb
+  - enabled: 1
+    path: Assets/Scenes/Cat3_Vocabulaire/Quefaire.unity
+    guid: 6a65bd15c64628b489c53513a0543977
+  - enabled: 1
+    path: Assets/Scenes/Cat3_Vocabulaire/Prendre.unity
+    guid: 938a1e63dac786840add87af60d19dc0
+  - enabled: 1
+    path: Assets/Scenes/Cat3_Vocabulaire/Tu.unity
+    guid: 89cd1be28b08bf04b9eb7d5ca7ce55ec
+  - enabled: 1
+    path: Assets/Scenes/Cat3_Vocabulaire/Maison.unity
+    guid: 07b1229e4db782a43a91ac1480fd0413
+  - enabled: 1
+    path: Assets/Scenes/Cat3_Vocabulaire/Six.unity
+    guid: 87bce0e06d9e9b54fb9f581b0aabbd3c
+  - enabled: 0
+    path: 
+    guid: 23e38a5a9a61be0498b834ce032fd9e8
+  - enabled: 0
+    path: 
     guid: f93f6b63784bede42aa8e508c0a8e345
+  - enabled: 1
+    path: Assets/Scenes/Persistent.unity
+    guid: a4c6f2eaa50db3842a6c653dc36b816d
+  - enabled: 1
+    path: Assets/Scenes/MenuScreen.unity
+    guid: 2588e5f8e1a84d0469873400f0203e67
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: c30dd1b3cc191f84c8deb458ae430d4f
   m_configObjects: {}

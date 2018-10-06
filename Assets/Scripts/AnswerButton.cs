@@ -6,7 +6,7 @@ public class AnswerButton : MonoBehaviour
 {
 
     public Text answerText;
-
+    public RawImage answerImg;
     private AnswerData answerData;
     private GameController gameController;
 
@@ -20,6 +20,7 @@ public class AnswerButton : MonoBehaviour
     {
         answerData = data;
         answerText.text = answerData.answerText;
+        answerImg.texture = Resources.Load(string.Concat("Images/", answerData.answerText)) as Texture;
     }
 
 
